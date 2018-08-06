@@ -1,3 +1,3 @@
 # Algorithms
-### Explanation of different algorithms for Interviews and Coding challenges .
+### Explanation of different algorithms in Python for Interviews and Coding challenges .
 
